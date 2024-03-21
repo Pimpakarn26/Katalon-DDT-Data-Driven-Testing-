@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login sc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed84c3e5-fc9c-435a-aebe-8707bd1b68e7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3fc2aaed-bbdb-468b-9887-65046cacb0df</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>af0add37-7cdf-4ab8-9209-51c4b0e8f098</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>3fc2aaed-bbdb-468b-9887-65046cacb0df</id>
+      <masked>false</masked>
+      <name>usn</name>
+   </variable>
+   <variable>
+      <defaultValue>'hsPFm2cfhkw='</defaultValue>
+      <description></description>
+      <id>af0add37-7cdf-4ab8-9209-51c4b0e8f098</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+</TestCaseEntity>
